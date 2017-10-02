@@ -1,0 +1,3 @@
+There are two files client.java and typingTutor.java, these are main source code.
+But to run the game args will be required. So, either you put down your own args by going into Run Configuration or you can setup the setting file provided. And setup the rest of the files also.
+Enjoy!
